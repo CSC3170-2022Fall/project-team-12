@@ -18,8 +18,8 @@ Our team consists of the following members, listed in the table below (the team 
 
 | Student ID | Student Name | GitHub Account (in Email) |
 | ---------- | ------------ | ------------------------- |
-| 120040076  | 许可 🚩      | 1536222503@qq.com        |
-| 120010030  | 石行言        | sili@outlook.com          |
+| 120040076  | 许可 🚩      | 1536222503@qq.com         |
+| 120010030  | 石行言        | andrewshi2002@163.com     |
 | 120010019  | 张梓杰        | wuwang@foxmail.com        |
 | 120040064  | 陈祥志        | liuchen@qq.com            |
 | 119020055  | 魏弋博        | jiuzhu@163.com            |
