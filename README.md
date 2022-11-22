@@ -21,7 +21,7 @@ Our team consists of the following members, listed in the table below (the team 
 | 120040076  | 许可 🚩      | 1536222503@qq.com         |
 | 120010030  | 石行言        | andrewshi2002@163.com     |
 | 120010019  | 张梓杰        | wuwang@foxmail.com        |
-| 120040064  | 陈祥志        | liuchen@qq.com            |
+| 120040064  | 陈祥志        | 1060239950@qq.com            |
 | 119020055  | 魏弋博        | 1912664053@qq.com         |
 | 120090600  | 叶超          | jiuzhu@163.com            |
 
