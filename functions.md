@@ -2,6 +2,8 @@
 
 Option 1, Normal 
 
+
+
 ## Function Points
 
 Consumer login
@@ -17,3 +19,12 @@ Producer package information register
 Machine operation assignment 
 
 Information look up (with visualization)
+
+
+
+## Relationship schema 
+
+
+
+## ER
+
