@@ -23,7 +23,7 @@ Our team consists of the following members, listed in the table below (the team 
 | 120010019  | 张梓杰        | itif_hq@126.com        |
 | 120040064  | 陈祥志        | 1060239950@qq.com            |
 | 119020055  | 魏弋博        | 1912664053@qq.com         |
-| 120090600  | 叶超          | jiuzhu@163.com            |
+| 120090600  | 叶超          | 1016558312@qq.com            |
 
 ## Project Specification
 
