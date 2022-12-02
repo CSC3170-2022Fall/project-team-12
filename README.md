@@ -43,7 +43,7 @@ As for Option 2, our topic background specification can be found in [background-
 
 This project is under option 1, branch 1, normal difficulty. This project aims to implement a platform designed for chip transactions between consumers and producers and handle chip production procedures. Specifically, this project aims to accomplish the following goals for the platform: 
 
-- Consumers and producers login
+- Consumers and producers sign up and sign in 
 
 - Consumers to register/modify purchase requests 
 
