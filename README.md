@@ -8,7 +8,6 @@ This is our implementation for the course project of CSC3170, 2022 Fall, CUHK(SZ
 <!-- Please fill in "x" to replace the blank space between "[]" to tick the todo item; it's ticked on the first one by default. -->
 
 - [x] **Application with Database System(s)**
-- [x] **Write the abstract of the project**
 - [ ] **Implementation of a Database System**
 
 ## Team Members
@@ -19,12 +18,12 @@ Our team consists of the following members, listed in the table below (the team 
 
 | Student ID | Student Name | GitHub Account (in Email) | User Name   |
 | ---------- | ------------ | ------------------------- | ----------- |
-| 120040076  | 许可 🚩      | 1536222503@qq.com         | @Markkkx     |
-| 120010030  | 石行言        | andrewshi2002@163.com     | @p0sitive1   |
-| 120010019  | 张梓杰        | itif_hq@126.com        | @CHANG-Tzuchieh   |
-| 120040064  | 陈祥志        | 1060239950@qq.com            | @Aycaramb8        |
-| 119020055  | 魏弋博        | 1912664053@qq.com         | @sadd        |
-| 120090600  | 叶超          | 1016558312@qq.com            | @sadd        |
+| 120040076  | 许可 🚩      | 1536222503@qq.com         | @[Markkkx](https://github.com/Markkkx)     |
+| 120010030  | 石行言        | andrewshi2002@163.com     | @[p0sitive1](https://github.com/p0sitive1)   |
+| 120010019  | 张梓杰        | itif_hq@126.com        | @[CHANG-Tzuchieh](https://github.com/CHANG-Tzuchieh)   |
+| 120040064  | 陈祥志        | 1060239950@qq.com            | @[Aycaramb8](https://github.com/Aycaramb8)        |
+| 119020055  | 魏弋博        | 1912664053@qq.com         | @[sadd](https://github.com/sadd)        |
+| 120090600  | 叶超          | 1016558312@qq.com            | @[sadd](https://github.com/sadd)        |
 
 ## Project Specification
 
