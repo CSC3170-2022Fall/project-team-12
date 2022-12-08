@@ -21,7 +21,7 @@ Our team consists of the following members, listed in the table below (the team 
 | ---------- | ------------ | ------------------------- | ----------- |
 | 120040076  | 许可 🚩      | 1536222503@qq.com         | Markkkx     |
 | 120010030  | 石行言        | andrewshi2002@163.com     | p0sitive1   |
-| 120010019  | 张梓杰        | itif_hq@126.com        | sadd        |
+| 120010019  | 张梓杰        | itif_hq@126.com        | CHANG-Tzuchieh   |
 | 120040064  | 陈祥志        | 1060239950@qq.com            | sadd        |
 | 119020055  | 魏弋博        | 1912664053@qq.com         | sadd        |
 | 120090600  | 叶超          | 1016558312@qq.com            | sadd        |
