@@ -22,6 +22,44 @@ Information look up (with visualization)
 
 
 
+## Pages 
+
+Home page
+
+Login page
+
+Register page
+
+Search page 
+
+- produce chip information 
+
+
+
+Consumer user home page
+
+- check packages
+- sign out
+- delete account
+
+Producer user home page
+
+- check plants
+- sign out
+- delete account
+
+
+
+Consumer add purchase page
+
+Consumer check package process information 
+
+Producer add plant information page
+
+Producer update package information 
+
+
+
 ## Relationship schema 
 
 
