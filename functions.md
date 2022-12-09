@@ -47,6 +47,7 @@ Producer user home page
 - check plants
 - sign out
 - delete account
+- check packages (produced in user's plants in progress)
 
 
 
