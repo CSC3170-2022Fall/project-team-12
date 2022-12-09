@@ -22,7 +22,7 @@ Our team consists of the following members, listed in the table below (the team 
 | 120010030  | 石行言        | andrewshi2002@163.com     | @[p0sitive1](https://github.com/p0sitive1)   |
 | 120010019  | 张梓杰        | itif_hq@126.com        | @[CHANG-Tzuchieh](https://github.com/CHANG-Tzuchieh)   |
 | 120040064  | 陈祥志        | 1060239950@qq.com            | @[Aycaramb8](https://github.com/Aycaramb8)        |
-| 119020055  | 魏弋博        | 1912664053@qq.com         | @[sadd](https://github.com/WYS-Lucas)        |
+| 119020055  | 魏弋博        | 1912664053@qq.com         | @[WYS-Lucas](https://github.com/WYS-Lucas)        |
 | 120090600  | 叶超          | 1016558312@qq.com            | @[sadd](https://github.com/sadd)        |
 
 ## Project Specification
