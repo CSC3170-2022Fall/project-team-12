@@ -1,0 +1,502 @@
+[
+    {
+        "id": 0,
+        "chip_type": "H2000",
+        "price": 300
+    },
+    {
+        "id": 1,
+        "chip_type": "H2000",
+        "price": 300
+    },
+    {
+        "id": 2,
+        "chip_type": "H5000",
+        "price": 400
+    },
+    {
+        "id": 3,
+        "chip_type": "G500",
+        "price": 200
+    },
+    {
+        "id": 4,
+        "chip_type": "H2000",
+        "price": 300
+    },
+    {
+        "id": 5,
+        "chip_type": "H5000",
+        "price": 400
+    },
+    {
+        "id": 6,
+        "chip_type": "G1000",
+        "price": 350
+    },
+    {
+        "id": 7,
+        "chip_type": "H1000",
+        "price": 200
+    },
+    {
+        "id": 8,
+        "chip_type": "G500",
+        "price": 200
+    },
+    {
+        "id": 9,
+        "chip_type": "H1000",
+        "price": 200
+    },
+    {
+        "id": 10,
+        "chip_type": "H5000",
+        "price": 400
+    },
+    {
+        "id": 11,
+        "chip_type": "G500",
+        "price": 200
+    },
+    {
+        "id": 12,
+        "chip_type": "G500",
+        "price": 200
+    },
+    {
+        "id": 13,
+        "chip_type": "G1000",
+        "price": 350
+    },
+    {
+        "id": 14,
+        "chip_type": "G100",
+        "price": 150
+    },
+    {
+        "id": 15,
+        "chip_type": "G500",
+        "price": 200
+    },
+    {
+        "id": 16,
+        "chip_type": "G1000",
+        "price": 350
+    },
+    {
+        "id": 17,
+        "chip_type": "H5000",
+        "price": 400
+    },
+    {
+        "id": 18,
+        "chip_type": "H5000",
+        "price": 400
+    },
+    {
+        "id": 19,
+        "chip_type": "H5000",
+        "price": 400
+    },
+    {
+        "id": 20,
+        "chip_type": "G500",
+        "price": 200
+    },
+    {
+        "id": 21,
+        "chip_type": "G500",
+        "price": 200
+    },
+    {
+        "id": 22,
+        "chip_type": "H2000",
+        "price": 300
+    },
+    {
+        "id": 23,
+        "chip_type": "H5000",
+        "price": 400
+    },
+    {
+        "id": 24,
+        "chip_type": "H2000",
+        "price": 300
+    },
+    {
+        "id": 25,
+        "chip_type": "G500",
+        "price": 200
+    },
+    {
+        "id": 26,
+        "chip_type": "G500",
+        "price": 200
+    },
+    {
+        "id": 27,
+        "chip_type": "H2000",
+        "price": 300
+    },
+    {
+        "id": 28,
+        "chip_type": "H5000",
+        "price": 400
+    },
+    {
+        "id": 29,
+        "chip_type": "H1000",
+        "price": 200
+    },
+    {
+        "id": 30,
+        "chip_type": "H1000",
+        "price": 200
+    },
+    {
+        "id": 31,
+        "chip_type": "H5000",
+        "price": 400
+    },
+    {
+        "id": 32,
+        "chip_type": "G100",
+        "price": 150
+    },
+    {
+        "id": 33,
+        "chip_type": "H2000",
+        "price": 300
+    },
+    {
+        "id": 34,
+        "chip_type": "H5000",
+        "price": 400
+    },
+    {
+        "id": 35,
+        "chip_type": "H1000",
+        "price": 200
+    },
+    {
+        "id": 36,
+        "chip_type": "H2000",
+        "price": 300
+    },
+    {
+        "id": 37,
+        "chip_type": "G100",
+        "price": 150
+    },
+    {
+        "id": 38,
+        "chip_type": "G1000",
+        "price": 350
+    },
+    {
+        "id": 39,
+        "chip_type": "H5000",
+        "price": 400
+    },
+    {
+        "id": 40,
+        "chip_type": "G500",
+        "price": 200
+    },
+    {
+        "id": 41,
+        "chip_type": "H2000",
+        "price": 300
+    },
+    {
+        "id": 42,
+        "chip_type": "G1000",
+        "price": 350
+    },
+    {
+        "id": 43,
+        "chip_type": "H1000",
+        "price": 200
+    },
+    {
+        "id": 44,
+        "chip_type": "H2000",
+        "price": 300
+    },
+    {
+        "id": 45,
+        "chip_type": "H1000",
+        "price": 200
+    },
+    {
+        "id": 46,
+        "chip_type": "G1000",
+        "price": 350
+    },
+    {
+        "id": 47,
+        "chip_type": "G100",
+        "price": 150
+    },
+    {
+        "id": 48,
+        "chip_type": "H2000",
+        "price": 300
+    },
+    {
+        "id": 49,
+        "chip_type": "G1000",
+        "price": 350
+    },
+    {
+        "id": 50,
+        "chip_type": "H1000",
+        "price": 200
+    },
+    {
+        "id": 51,
+        "chip_type": "H5000",
+        "price": 400
+    },
+    {
+        "id": 52,
+        "chip_type": "H5000",
+        "price": 400
+    },
+    {
+        "id": 53,
+        "chip_type": "G100",
+        "price": 150
+    },
+    {
+        "id": 54,
+        "chip_type": "H2000",
+        "price": 300
+    },
+    {
+        "id": 55,
+        "chip_type": "H1000",
+        "price": 200
+    },
+    {
+        "id": 56,
+        "chip_type": "G100",
+        "price": 150
+    },
+    {
+        "id": 57,
+        "chip_type": "H2000",
+        "price": 300
+    },
+    {
+        "id": 58,
+        "chip_type": "H2000",
+        "price": 300
+    },
+    {
+        "id": 59,
+        "chip_type": "G1000",
+        "price": 350
+    },
+    {
+        "id": 60,
+        "chip_type": "H2000",
+        "price": 300
+    },
+    {
+        "id": 61,
+        "chip_type": "G100",
+        "price": 150
+    },
+    {
+        "id": 62,
+        "chip_type": "G100",
+        "price": 150
+    },
+    {
+        "id": 63,
+        "chip_type": "G1000",
+        "price": 350
+    },
+    {
+        "id": 64,
+        "chip_type": "G1000",
+        "price": 350
+    },
+    {
+        "id": 65,
+        "chip_type": "G500",
+        "price": 200
+    },
+    {
+        "id": 66,
+        "chip_type": "H1000",
+        "price": 200
+    },
+    {
+        "id": 67,
+        "chip_type": "G100",
+        "price": 150
+    },
+    {
+        "id": 68,
+        "chip_type": "G1000",
+        "price": 350
+    },
+    {
+        "id": 69,
+        "chip_type": "G500",
+        "price": 200
+    },
+    {
+        "id": 70,
+        "chip_type": "G500",
+        "price": 200
+    },
+    {
+        "id": 71,
+        "chip_type": "H2000",
+        "price": 300
+    },
+    {
+        "id": 72,
+        "chip_type": "G500",
+        "price": 200
+    },
+    {
+        "id": 73,
+        "chip_type": "G100",
+        "price": 150
+    },
+    {
+        "id": 74,
+        "chip_type": "H5000",
+        "price": 400
+    },
+    {
+        "id": 75,
+        "chip_type": "H2000",
+        "price": 300
+    },
+    {
+        "id": 76,
+        "chip_type": "H2000",
+        "price": 300
+    },
+    {
+        "id": 77,
+        "chip_type": "G100",
+        "price": 150
+    },
+    {
+        "id": 78,
+        "chip_type": "G500",
+        "price": 200
+    },
+    {
+        "id": 79,
+        "chip_type": "H5000",
+        "price": 400
+    },
+    {
+        "id": 80,
+        "chip_type": "G1000",
+        "price": 350
+    },
+    {
+        "id": 81,
+        "chip_type": "G100",
+        "price": 150
+    },
+    {
+        "id": 82,
+        "chip_type": "G500",
+        "price": 200
+    },
+    {
+        "id": 83,
+        "chip_type": "H5000",
+        "price": 400
+    },
+    {
+        "id": 84,
+        "chip_type": "H5000",
+        "price": 400
+    },
+    {
+        "id": 85,
+        "chip_type": "G500",
+        "price": 200
+    },
+    {
+        "id": 86,
+        "chip_type": "H5000",
+        "price": 400
+    },
+    {
+        "id": 87,
+        "chip_type": "G1000",
+        "price": 350
+    },
+    {
+        "id": 88,
+        "chip_type": "G1000",
+        "price": 350
+    },
+    {
+        "id": 89,
+        "chip_type": "G1000",
+        "price": 350
+    },
+    {
+        "id": 90,
+        "chip_type": "H2000",
+        "price": 300
+    },
+    {
+        "id": 91,
+        "chip_type": "H5000",
+        "price": 400
+    },
+    {
+        "id": 92,
+        "chip_type": "G100",
+        "price": 150
+    },
+    {
+        "id": 93,
+        "chip_type": "H2000",
+        "price": 300
+    },
+    {
+        "id": 94,
+        "chip_type": "G1000",
+        "price": 350
+    },
+    {
+        "id": 95,
+        "chip_type": "H1000",
+        "price": 200
+    },
+    {
+        "id": 96,
+        "chip_type": "G1000",
+        "price": 350
+    },
+    {
+        "id": 97,
+        "chip_type": "H5000",
+        "price": 400
+    },
+    {
+        "id": 98,
+        "chip_type": "H5000",
+        "price": 400
+    },
+    {
+        "id": 99,
+        "chip_type": "H1000",
+        "price": 200
+    }
+]

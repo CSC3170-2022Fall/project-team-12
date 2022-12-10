@@ -1,0 +1,31 @@
+<head>
+    <link rel="stylesheet" href="infostyle.css">
+    <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+</head>
+<body>
+    <center>
+    <a href="temp_main.html">HOME</a>
+    <div id="all">
+        <h2>Check Package Processes</h2>
+        <div>
+            <input type="text" placeholder="Search by ID" onkeyup="search()" id="input">
+            <input type="text" placeholder="Search by Chip type" onkeyup="search_p()" id="inputp">
+        </div>
+        <table class = "styled-table">
+            <thead>
+                <tr>
+                    <th>Package ID</th>
+                    <th>Chips</th>
+                    <th>Price</th>
+                    <th>Status</th>
+                    <th>Update</th>
+                </tr>
+            </thead>
+            <tbody id="table">
+            </tbody>
+        </table>
+    </div>
+    </div>
+    <script src="update_package.js"></script>
+</center>
+</body>
