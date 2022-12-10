@@ -1,0 +1,153 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+body{
+    margin-top:20px;
+    background: rgb(227, 241, 227);
+}
+.ui-w-40 {
+    width: 20px !important;
+    height: auto;
+}
+
+.card{
+    box-shadow: 0 1px 15px 1px rgba(52,40,104,.08);    
+}
+
+
+.styled-table {
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+    font: 1em century gothic;
+    min-width: 500px;
+    width: 80%;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+.styled-table thead tr {
+    background-color: #009879;
+    color: #ffffff;
+    text-align: left;
+}
+
+.styled-table thead tr th {
+    padding: 2%;
+}
+
+.styled-table tbody tr td {
+    padding: 2%;
+}
+
+.styled-table tbody tr {
+    border-bottom: 1px solid #dddddd;
+}
+
+.styled-table tbody tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+}
+
+.styled-table tbody tr:last-of-type {
+    border-bottom: 2px solid #009879;
+}
+
+button {
+    line-height: 1;
+    display: inline-block;
+    border-radius: 5px;
+    color: black;
+    padding: 5px;
+    font: 1em century gothic, arial;
+    border-width: 1px;
+}
+
+#input {
+    margin-right: -.25;
+    border: none;
+    padding: 0 1em;
+    width: 20%;
+    height: 5%;
+    border-radius: 1%;
+    background: rgb(198, 223, 198);
+    color: #fff;
+    font: 1em century gothic, arial;
+    border-radius: 50px;
+    margin-right: 10%;
+}
+
+#inputp {
+    margin-right: -.25;
+    border: none;
+    padding: 0 1em;
+    width: 20%;
+    height: 5%;
+    border-radius: 1%;
+    background: rgb(198, 223, 198);
+    color: #fff;
+    font: 1em century gothic, arial;
+    border-radius: 50px;
+}
+
+#title {
+    font: 2em century gothic, arial;
+    font-weight: bold;
+    margin-bottom: 1%;
+}
+
+a:link { text-decoration: none; }
+a:visited { text-decoration: none; }
+a:hover { text-decoration: none; }
+a:active { text-decoration: none; }
+
+li {
+    top: 0;
+    display: inline;
+    font: 1em century gothic, arial;
+    font-weight: bold;
+  }
+
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 25px;
+  }
+
+  li a:hover {
+    background-color: rgb(110, 196, 110);
+  }
+
+  .active {
+    background-color: #04AA6D;
+  }
+
+form{
+  font-size: 20px;
+}
+
+#list_here {
+  height: 59px;
+  background: rgb(153, 214, 153);
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.card {
+    margin-top: 5%;
+}
+
+#userinfo {
+    padding-top: 8px;
+    padding-right: 20px;
+    text-align: right;
+    font: 2em century gothic, arial;
+  }

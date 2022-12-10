@@ -1,3 +1,9 @@
+* {
+    padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
 body{
     margin-top:20px;
     background: rgb(227, 241, 227);
@@ -25,7 +31,7 @@ body{
 .styled-table thead tr {
     background-color: #009879;
     color: #ffffff;
-    text-align: left;
+    text-align: justify;
 }
 
 .styled-table thead tr th {
@@ -58,7 +64,7 @@ button {
     border-width: 1px;
 }
 
-#input {
+#inputt {
     margin-right: -.25;
     border: none;
     padding: 0 1em;
@@ -69,7 +75,6 @@ button {
     color: #fff;
     font: 1em century gothic, arial;
     border-radius: 50px;
-    margin-right: 10%;
 }
 
 #inputp {
@@ -85,12 +90,70 @@ button {
     border-radius: 50px;
 }
 
-#title {
+.title {
     font: 2em century gothic, arial;
     font-weight: bold;
+}
+
+#total {
+    font: 1em century gothic, arial;
 }
 
 a:link { text-decoration: none; }
 a:visited { text-decoration: none; }
 a:hover { text-decoration: none; }
 a:active { text-decoration: none; }
+
+
+li {
+    top: 0;
+    display: inline;
+    font: 1em century gothic, arial;
+    font-weight: bold;
+  }
+
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 25px;
+  }
+
+  li a:hover {
+    background-color: rgb(110, 196, 110);
+  }
+
+  .active {
+    background-color: #04AA6D;
+  }
+
+form{
+  font-size: 20px;
+}
+
+#list_here {
+  height: 59px;
+  background: rgb(153, 214, 153);
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.card {
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+
+#userinfo {
+    padding-top: 8px;
+    padding-right: 20px;
+    text-align: right;
+    font: 2em century gothic, arial;
+  }

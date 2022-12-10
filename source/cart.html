@@ -3,8 +3,24 @@
     <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
 </head>
 <body>
+  <div id="list_here">
+    <ul>
+      <li><a   onclick="window.location.href = 'consumer_homepage.html' ">Home
+      </a></li>
+        <li><a  onclick="window.location.href = 'info.html'"> Check Package
+        </a></li>
+        <li><a  onclick="window.location.href = 'cart.html'"> Make Purchase
+        </a></li>
+        <li><a   onclick="window.location.href = 'temp_main.html'">Log-out
+        </a></li>
+        <li><a   onclick="window.location.href = 'delete_consumer.html' ">Delete Account
+        </a></li>
+    </ul>
+    <div id="userinfo">
+      Account ID: 93352
+  </div>
+</div>
   <center>
-    <a href="temp_main.html">HOME</a>
     <div id="cart">
         <!-- Shopping cart table -->
         <div class="card">
@@ -39,7 +55,7 @@
                   </div>
                   <div>
                     <button><a onclick="return show('add_chip','cart');">Add Another Chip</a></button>
-                    <button type="button"><a href="temp_main.html">Checkout</a></button>
+                    <button type="button"><a href="consumer_homepage.html">Checkout</a></button>
                   </div>
                 </div>
               </div>

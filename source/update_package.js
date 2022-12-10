@@ -1,38 +1,44 @@
 var _data;
 
 $(document).ready(function () {
-    $.getJSON("chips.json", 
+    $.getJSON("packages.json", 
             function (data) {
                 _data = data;
-        var chips = '';
+        var items = '';
 
         $.each(data, function (key, value) {
-            chips += '<tr>';
+            items += '<tr>';
 
-            chips += '<td>' + 
+            items += '<td>' +
+                value.id + "</td>";
+
+            items += '<td>' + 
                 value.chip_type + '</td>';
 
-            chips += '<td>$' + 
+            items += '<td>$' + 
                 value.price + '</td>';
+            
+            items += '<td>' +
+                value.status + "</td>";
 
-            chips += '<td>' +
-                "<button onclick=\"add(" + value.id + ")\" id=\"" + value.id + "\">Add</button>" + "</td>";
+            items += '<td>' +
+                "<button><a onclick=\"change_status(" + key +")\">Update</a></button>" + "</td>";
 
-            chips += '</tr>';
+            items += '</tr>';
         });
           
-        $('#table').append(chips);
+        $('#table').append(items);
     });
 });
 
-function search_t() {
+
+function search() {
     var input, filter, table, tr, td, i, txtValue;
-    input = document.getElementById("inputt");
+    input = document.getElementById("input");
     filter = input.value.toUpperCase();
     table = document.getElementById("table");
     tr = table.getElementsByTagName("tr");
   
-    // Loop through all table rows, and hide those who don't match the search query
     for (i = 0; i < tr.length; i++) {
       td = tr[i].getElementsByTagName("td")[0];
       if (td) {
@@ -46,14 +52,13 @@ function search_t() {
     }
   }
 
-  function search_p() {
+function search_p() {
     var input, filter, table, tr, td, i, txtValue;
     input = document.getElementById("inputp");
     filter = input.value.toUpperCase();
     table = document.getElementById("table");
     tr = table.getElementsByTagName("tr");
   
-    // Loop through all table rows, and hide those who don't match the search query
     for (i = 0; i < tr.length; i++) {
       td = tr[i].getElementsByTagName("td")[1];
       if (td) {
@@ -67,55 +72,48 @@ function search_t() {
     }
   }
 
-var cart = [];
-
-function add(d) {
-    var tmp;
-    tmp = _data[d]
-    cart.push(tmp);
-    updateCart();
-    show("cart", "add_chip")
-}
-
 function show(shown, hidden) {
     document.getElementById(shown).style.display='block';
     document.getElementById(hidden).style.display='none';
 }
 
-function updateCart() {
+function updateT() {
     var item = "";
-    $('#shopping_cart tr').remove()
+    $('#table tr').remove()
     var total = 0;
-    $.each(cart, function (key, value) {
+    items = [];
+    $.each(_data, function (key, value) {
+        items += '<tr>';
 
-        var subtotal = 1;
+        items += '<td>' +
+            value.id + "</td>";
 
-        item += '<tr>';
-
-        item += '<td>' + 
+        items += '<td>' + 
             value.chip_type + '</td>';
 
-        item += '<td>$' + 
+        items += '<td>$' + 
             value.price + '</td>';
+        
+        items += '<td>' +
+            value.status + "</td>";
+        
+        items += '<td>' +
+            "<button><a onclick=\"change_status(" + key +")\">Update</a></button>" + "</td>";
 
-        item += '<td>' +
-            "<button onclick=\"delitem(" + key + ")\">×</button>" + "</td>";
-
-        item += '</tr>';
-
-        total = total + value.price
+        items += '</tr>';
     });
-
-    $('#shopping_cart').append(item);
-    document.getElementById("total").innerHTML = "<strong>$" + total + "</strong>";
+      
+    $('#table').append(items);
 }
 
-function delitem(i) {
-    cart.splice(i, 1)
-    updateCart()
-}
+// function nodetail() {
+//     $('#detailT tr').remove()
+//     show('all', 'detail')
+// }
 
-function purge() {
-    cart = []
-    updateCart()
+function change_status(k) {
+    if(_data[k].status == "In-progress") {
+        _data[k].status = "Finished"
+    }
+    updateT();
 }
