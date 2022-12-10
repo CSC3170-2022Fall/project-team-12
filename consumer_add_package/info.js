@@ -4,6 +4,7 @@ $(document).ready(function () {
     $.getJSON("packages.json", 
             function (data) {
                 _data = data;
+
         var items = '';
 
         $.each(data, function (key, value) {
@@ -14,15 +15,6 @@ $(document).ready(function () {
 
             items += '<td>' + 
                 value.chip_type + '</td>';
-
-            items += '<td>$' + 
-                value.price + '</td>';
-
-            items += '<td>' +
-                value.start_time + "</td>";
-            
-            items += '<td>' +
-                value.end_time + "</td>";
             
             items += '<td>' +
                 value.status + "</td>";
@@ -96,15 +88,6 @@ function updateT() {
 
         items += '<td>' + 
             value.chip_type + '</td>';
-
-        items += '<td>$' + 
-            value.price + '</td>';
-
-        items += '<td>' +
-            value.start_time + "</td>";
-        
-        items += '<td>' +
-            value.end_time + "</td>";
         
         items += '<td>' +
             value.status + "</td>";
@@ -158,7 +141,7 @@ function nodetail() {
 }
 
 function cancel(k) {
-    if(_data[k].status == "In process") {
+    if(_data[k].status == "In-progress") {
         _data[k].status = "Cancelled"
     }
     updateT();

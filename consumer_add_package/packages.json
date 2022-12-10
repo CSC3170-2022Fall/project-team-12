@@ -1,1276 +1,1198 @@
 [
     {
-        "id": 18096,
+        "id": 23472,
         "chip_type": [
-            "H2000",
-            "G1000",
             "G1000",
             "H2000",
+            "H1000",
             "H2000"
-        ],
-        "price": 1600,
-        "start_time": 3403,
-        "status": "Finished",
-        "end_time": 7709
-    },
-    {
-        "id": 55852,
-        "chip_type": [
-            "G500",
-            "H5000",
-            "H2000",
-            "G100"
-        ],
-        "price": 1050,
-        "start_time": 3050,
-        "status": "Finished",
-        "end_time": 9343
-    },
-    {
-        "id": 51498,
-        "chip_type": [
-            "G100",
-            "H5000"
-        ],
-        "price": 550,
-        "start_time": 2584,
-        "status": "Cancelled",
-        "end_time": null
-    },
-    {
-        "id": 24527,
-        "chip_type": [
-            "G1000",
-            "G1000",
-            "H5000",
-            "G100",
-            "G100"
-        ],
-        "price": 1400,
-        "start_time": 2621,
-        "status": "In process",
-        "end_time": null
-    },
-    {
-        "id": 26772,
-        "chip_type": [
-            "H2000",
-            "H1000",
-            "G500"
-        ],
-        "price": 700,
-        "start_time": 3744,
-        "status": "In process",
-        "end_time": null
-    },
-    {
-        "id": 88813,
-        "chip_type": [
-            "G1000",
-            "H1000",
-            "H5000"
-        ],
-        "price": 950,
-        "start_time": 3010,
-        "status": "In process",
-        "end_time": null
-    },
-    {
-        "id": 22232,
-        "chip_type": [
-            "G500",
-            "H1000",
-            "H1000"
-        ],
-        "price": 600,
-        "start_time": 2133,
-        "status": "Cancelled",
-        "end_time": null
-    },
-    {
-        "id": 45145,
-        "chip_type": [
-            "H2000",
-            "H2000",
-            "G500",
-            "H2000",
-            "G100"
-        ],
-        "price": 1250,
-        "start_time": 2104,
-        "status": "Cancelled",
-        "end_time": null
-    },
-    {
-        "id": 29506,
-        "chip_type": [
-            "H1000",
-            "G100",
-            "G500",
-            "G500"
-        ],
-        "price": 750,
-        "start_time": 4827,
-        "status": "Cancelled",
-        "end_time": null
-    },
-    {
-        "id": 75985,
-        "chip_type": [
-            "H2000",
-            "H2000",
-            "H2000"
-        ],
-        "price": 900,
-        "start_time": 4624,
-        "status": "Cancelled",
-        "end_time": null
-    },
-    {
-        "id": 56136,
-        "chip_type": [
-            "H2000",
-            "G1000",
-            "G1000",
-            "G500",
-            "G100"
-        ],
-        "price": 1350,
-        "start_time": 4646,
-        "status": "Finished",
-        "end_time": 5578
-    },
-    {
-        "id": 69014,
-        "chip_type": [
-            "H5000",
-            "H5000",
-            "G500",
-            "G100",
-            "H1000"
-        ],
-        "price": 1350,
-        "start_time": 1987,
-        "status": "In process",
-        "end_time": null
-    },
-    {
-        "id": 41342,
-        "chip_type": [
-            "H5000",
-            "H5000",
-            "H5000",
-            "H1000",
-            "G1000"
-        ],
-        "price": 1750,
-        "start_time": 4665,
-        "status": "Finished",
-        "end_time": 7201
-    },
-    {
-        "id": 58112,
-        "chip_type": [
-            "G500",
-            "G100",
-            "H2000",
-            "H2000"
-        ],
-        "price": 950,
-        "start_time": 3346,
-        "status": "Finished",
-        "end_time": 7617
-    },
-    {
-        "id": 38986,
-        "chip_type": [
-            "H5000",
-            "G1000",
-            "H1000"
-        ],
-        "price": 950,
-        "start_time": 3870,
-        "status": "Cancelled",
-        "end_time": null
-    },
-    {
-        "id": 62674,
-        "chip_type": [
-            "H2000",
-            "H1000"
-        ],
-        "price": 500,
-        "start_time": 3072,
-        "status": "Cancelled",
-        "end_time": null
-    },
-    {
-        "id": 20824,
-        "chip_type": [
-            "G1000",
-            "G100"
-        ],
-        "price": 500,
-        "start_time": 4628,
-        "status": "Cancelled",
-        "end_time": null
-    },
-    {
-        "id": 18804,
-        "chip_type": [
-            "G1000",
-            "H2000",
-            "H2000",
-            "G100"
-        ],
-        "price": 1100,
-        "start_time": 3830,
-        "status": "Finished",
-        "end_time": 6898
-    },
-    {
-        "id": 78144,
-        "chip_type": [
-            "G500",
-            "G500",
-            "G1000",
-            "H2000",
-            "H1000"
-        ],
-        "price": 1250,
-        "start_time": 3158,
-        "status": "Finished",
-        "end_time": 9419
-    },
-    {
-        "id": 20192,
-        "chip_type": [
-            "H5000",
-            "G100",
-            "H2000"
-        ],
-        "price": 850,
-        "start_time": 4112,
-        "status": "Finished",
-        "end_time": 9104
-    },
-    {
-        "id": 41769,
-        "chip_type": [
-            "H2000",
-            "H5000",
-            "G500"
-        ],
-        "price": 900,
-        "start_time": 4761,
-        "status": "In process",
-        "end_time": null
-    },
-    {
-        "id": 65686,
-        "chip_type": [
-            "H5000",
-            "G500",
-            "H2000",
-            "H2000"
-        ],
-        "price": 1200,
-        "start_time": 2820,
-        "status": "Cancelled",
-        "end_time": null
-    },
-    {
-        "id": 53004,
-        "chip_type": [
-            "G100",
-            "H5000",
-            "G100",
-            "G500"
-        ],
-        "price": 900,
-        "start_time": 1609,
-        "status": "Finished",
-        "end_time": 5147
-    },
-    {
-        "id": 10382,
-        "chip_type": [
-            "H1000",
-            "G1000",
-            "H1000",
-            "G100"
-        ],
-        "price": 900,
-        "start_time": 3719,
-        "status": "In process",
-        "end_time": null
-    },
-    {
-        "id": 85786,
-        "chip_type": [
-            "G100",
-            "G100",
-            "G1000",
-            "H5000"
-        ],
-        "price": 1050,
-        "start_time": 1624,
-        "status": "Cancelled",
-        "end_time": null
-    },
-    {
-        "id": 27295,
-        "chip_type": [
-            "G1000",
-            "G100",
-            "G1000",
-            "G100",
-            "H1000"
-        ],
-        "price": 1200,
-        "start_time": 3404,
-        "status": "Cancelled",
-        "end_time": null
-    },
-    {
-        "id": 70312,
-        "chip_type": [
-            "G500",
-            "G1000",
-            "G500"
-        ],
-        "price": 750,
-        "start_time": 4022,
-        "status": "Finished",
-        "end_time": 5588
-    },
-    {
-        "id": 19580,
-        "chip_type": [
-            "H1000",
-            "H2000",
-            "G500",
-            "H5000"
-        ],
-        "price": 1100,
-        "start_time": 1243,
-        "status": "Cancelled",
-        "end_time": null
-    },
-    {
-        "id": 99591,
-        "chip_type": [
-            "G500",
-            "H1000",
-            "H2000",
-            "H5000"
-        ],
-        "price": 1100,
-        "start_time": 4018,
-        "status": "In process",
-        "end_time": null
-    },
-    {
-        "id": 16674,
-        "chip_type": [
-            "H5000",
-            "G100",
-            "H5000",
-            "H2000",
-            "H1000"
-        ],
-        "price": 1450,
-        "start_time": 2575,
-        "status": "Finished",
-        "end_time": 9680
-    },
-    {
-        "id": 75671,
-        "chip_type": [
-            "G100",
-            "G100",
-            "H1000",
-            "G500",
-            "G100"
-        ],
-        "price": 850,
-        "start_time": 3899,
-        "status": "Finished",
-        "end_time": 8976
-    },
-    {
-        "id": 83063,
-        "chip_type": [
-            "G500",
-            "H2000",
-            "H2000",
-            "G1000"
         ],
         "price": 1150,
-        "start_time": 4844,
-        "status": "Cancelled",
-        "end_time": null
+        "start_time": 4959,
+        "status": "Finished",
+        "end_time": 8761
     },
     {
-        "id": 60717,
+        "id": 99313,
         "chip_type": [
-            "G100",
             "H1000",
-            "H5000",
             "G100"
         ],
-        "price": 900,
-        "start_time": 3076,
+        "price": 350,
+        "start_time": 1799,
+        "status": "In-progress",
+        "end_time": 7165
+    },
+    {
+        "id": 52909,
+        "chip_type": [
+            "G1000",
+            "G100",
+            "H5000",
+            "G500"
+        ],
+        "price": 1100,
+        "start_time": 1784,
+        "status": "Finished",
+        "end_time": 9562
+    },
+    {
+        "id": 91125,
+        "chip_type": [
+            "H2000",
+            "H1000"
+        ],
+        "price": 500,
+        "start_time": 1011,
         "status": "Cancelled",
         "end_time": null
     },
     {
-        "id": 55423,
+        "id": 53024,
+        "chip_type": [
+            "H1000",
+            "G100",
+            "G1000",
+            "G1000"
+        ],
+        "price": 1050,
+        "start_time": 1031,
+        "status": "Cancelled",
+        "end_time": null
+    },
+    {
+        "id": 39472,
+        "chip_type": [
+            "H2000",
+            "H2000",
+            "G500",
+            "G500"
+        ],
+        "price": 1000,
+        "start_time": 1270,
+        "status": "In-progress",
+        "end_time": 8677
+    },
+    {
+        "id": 86148,
+        "chip_type": [
+            "H2000",
+            "G100",
+            "H1000",
+            "H2000"
+        ],
+        "price": 950,
+        "start_time": 1590,
+        "status": "In-progress",
+        "end_time": 6966
+    },
+    {
+        "id": 61887,
+        "chip_type": [
+            "H5000",
+            "G1000"
+        ],
+        "price": 750,
+        "start_time": 2132,
+        "status": "In-progress",
+        "end_time": 5388
+    },
+    {
+        "id": 69228,
+        "chip_type": [
+            "H2000",
+            "H2000"
+        ],
+        "price": 600,
+        "start_time": 2419,
+        "status": "Finished",
+        "end_time": 8316
+    },
+    {
+        "id": 61323,
+        "chip_type": [
+            "G1000",
+            "H2000",
+            "H5000",
+            "G500"
+        ],
+        "price": 1250,
+        "start_time": 3590,
+        "status": "In-progress",
+        "end_time": 8877
+    },
+    {
+        "id": 42974,
+        "chip_type": [
+            "H2000",
+            "H1000",
+            "H5000",
+            "G1000"
+        ],
+        "price": 1250,
+        "start_time": 3622,
+        "status": "Cancelled",
+        "end_time": null
+    },
+    {
+        "id": 61109,
+        "chip_type": [
+            "G100",
+            "G500"
+        ],
+        "price": 350,
+        "start_time": 4282,
+        "status": "In-progress",
+        "end_time": 6748
+    },
+    {
+        "id": 54777,
+        "chip_type": [
+            "H5000",
+            "H1000",
+            "G1000",
+            "G1000"
+        ],
+        "price": 1300,
+        "start_time": 3349,
+        "status": "In-progress",
+        "end_time": 6942
+    },
+    {
+        "id": 41387,
+        "chip_type": [
+            "H1000",
+            "G1000",
+            "G500",
+            "G1000"
+        ],
+        "price": 1100,
+        "start_time": 3485,
+        "status": "Cancelled",
+        "end_time": null
+    },
+    {
+        "id": 36926,
+        "chip_type": [
+            "G100",
+            "G500",
+            "H2000",
+            "H5000"
+        ],
+        "price": 1050,
+        "start_time": 4370,
+        "status": "Cancelled",
+        "end_time": null
+    },
+    {
+        "id": 63776,
+        "chip_type": [
+            "G1000",
+            "G1000",
+            "G1000"
+        ],
+        "price": 1050,
+        "start_time": 4373,
+        "status": "Finished",
+        "end_time": 8296
+    },
+    {
+        "id": 38480,
         "chip_type": [
             "H5000",
             "H5000"
         ],
         "price": 800,
-        "start_time": 4870,
+        "start_time": 4790,
         "status": "Cancelled",
         "end_time": null
     },
     {
-        "id": 17012,
+        "id": 34868,
         "chip_type": [
-            "G100",
-            "G1000",
-            "H2000",
-            "G1000",
-            "H1000"
-        ],
-        "price": 1350,
-        "start_time": 3008,
-        "status": "Cancelled",
-        "end_time": null
-    },
-    {
-        "id": 53384,
-        "chip_type": [
-            "G100",
-            "G1000",
-            "G100",
             "G500",
-            "G500"
+            "G100",
+            "H5000",
+            "H5000"
         ],
-        "price": 1050,
-        "start_time": 2557,
+        "price": 1150,
+        "start_time": 1454,
         "status": "Finished",
-        "end_time": 6374
+        "end_time": 8275
     },
     {
-        "id": 63985,
+        "id": 35097,
         "chip_type": [
-            "H5000",
             "H2000",
-            "G1000",
-            "G1000",
-            "H1000"
+            "G100",
+            "H2000"
         ],
-        "price": 1600,
-        "start_time": 2021,
-        "status": "Cancelled",
-        "end_time": null
+        "price": 750,
+        "start_time": 1567,
+        "status": "Finished",
+        "end_time": 6855
     },
     {
-        "id": 50615,
+        "id": 86714,
         "chip_type": [
             "H5000",
-            "H5000",
-            "H5000",
-            "H1000"
-        ],
-        "price": 1400,
-        "start_time": 2302,
-        "status": "Cancelled",
-        "end_time": null
-    },
-    {
-        "id": 49010,
-        "chip_type": [
             "H1000",
+            "H5000"
+        ],
+        "price": 1000,
+        "start_time": 4654,
+        "status": "In-progress",
+        "end_time": 5635
+    },
+    {
+        "id": 36018,
+        "chip_type": [
+            "G1000",
+            "G1000"
+        ],
+        "price": 700,
+        "start_time": 2600,
+        "status": "In-progress",
+        "end_time": 6411
+    },
+    {
+        "id": 12594,
+        "chip_type": [
+            "G500",
             "H5000"
         ],
         "price": 600,
-        "start_time": 4151,
+        "start_time": 2571,
         "status": "Cancelled",
         "end_time": null
     },
     {
-        "id": 73988,
+        "id": 39612,
+        "chip_type": [
+            "G1000",
+            "H1000",
+            "H1000",
+            "H5000"
+        ],
+        "price": 1150,
+        "start_time": 1762,
+        "status": "Finished",
+        "end_time": 6775
+    },
+    {
+        "id": 57407,
         "chip_type": [
             "H1000",
-            "H2000",
-            "H2000",
-            "H2000",
-            "H5000"
+            "H2000"
         ],
-        "price": 1500,
-        "start_time": 3075,
-        "status": "Finished",
-        "end_time": 6264
-    },
-    {
-        "id": 23031,
-        "chip_type": [
-            "H5000",
-            "G1000",
-            "G100"
-        ],
-        "price": 900,
-        "start_time": 3852,
+        "price": 500,
+        "start_time": 3296,
         "status": "Cancelled",
         "end_time": null
     },
     {
-        "id": 89548,
+        "id": 18042,
         "chip_type": [
-            "G500",
+            "G100",
+            "G100",
+            "G100"
+        ],
+        "price": 450,
+        "start_time": 2449,
+        "status": "Finished",
+        "end_time": 8733
+    },
+    {
+        "id": 48486,
+        "chip_type": [
             "H1000",
-            "G1000",
-            "G500"
+            "H1000",
+            "H1000",
+            "H1000"
         ],
-        "price": 950,
-        "start_time": 1882,
-        "status": "Cancelled",
-        "end_time": null
+        "price": 800,
+        "start_time": 1660,
+        "status": "In-progress",
+        "end_time": 8569
     },
     {
-        "id": 34986,
-        "chip_type": [
-            "H5000",
-            "G1000",
-            "H2000",
-            "G500",
-            "G100"
-        ],
-        "price": 1400,
-        "start_time": 4244,
-        "status": "In process",
-        "end_time": null
-    },
-    {
-        "id": 64125,
-        "chip_type": [
-            "H5000",
-            "H2000",
-            "H5000"
-        ],
-        "price": 1100,
-        "start_time": 2300,
-        "status": "Cancelled",
-        "end_time": null
-    },
-    {
-        "id": 90728,
+        "id": 65837,
         "chip_type": [
             "G1000",
-            "G100",
-            "H5000",
             "H2000",
-            "H5000"
-        ],
-        "price": 1600,
-        "start_time": 2003,
-        "status": "Cancelled",
-        "end_time": null
-    },
-    {
-        "id": 43675,
-        "chip_type": [
-            "H2000",
-            "G100",
-            "G500",
-            "H2000"
-        ],
-        "price": 950,
-        "start_time": 2042,
-        "status": "Cancelled",
-        "end_time": null
-    },
-    {
-        "id": 18446,
-        "chip_type": [
-            "G1000",
-            "G100",
-            "H2000",
-            "H2000"
-        ],
-        "price": 1100,
-        "start_time": 2389,
-        "status": "Finished",
-        "end_time": 8274
-    },
-    {
-        "id": 49608,
-        "chip_type": [
-            "H2000",
-            "G100",
-            "G100",
-            "H2000",
-            "H5000"
-        ],
-        "price": 1300,
-        "start_time": 3741,
-        "status": "Finished",
-        "end_time": 7492
-    },
-    {
-        "id": 86842,
-        "chip_type": [
-            "G100",
-            "G500",
-            "H2000",
-            "G500"
+            "H1000"
         ],
         "price": 850,
-        "start_time": 2314,
-        "status": "In process",
+        "start_time": 4350,
+        "status": "Cancelled",
         "end_time": null
     },
     {
-        "id": 79031,
-        "chip_type": [
-            "G1000",
-            "H5000",
-            "G1000",
-            "H2000"
-        ],
-        "price": 1400,
-        "start_time": 4311,
-        "status": "In process",
-        "end_time": null
-    },
-    {
-        "id": 98950,
+        "id": 29242,
         "chip_type": [
             "H1000",
+            "H1000"
+        ],
+        "price": 400,
+        "start_time": 1545,
+        "status": "Finished",
+        "end_time": 5713
+    },
+    {
+        "id": 95988,
+        "chip_type": [
+            "G500",
             "H2000",
+            "G1000"
+        ],
+        "price": 850,
+        "start_time": 2447,
+        "status": "In-progress",
+        "end_time": 8892
+    },
+    {
+        "id": 55763,
+        "chip_type": [
+            "H2000",
+            "G500"
+        ],
+        "price": 500,
+        "start_time": 4516,
+        "status": "Cancelled",
+        "end_time": null
+    },
+    {
+        "id": 38745,
+        "chip_type": [
+            "G500",
+            "H1000",
+            "H2000"
+        ],
+        "price": 700,
+        "start_time": 2422,
+        "status": "Finished",
+        "end_time": 5220
+    },
+    {
+        "id": 93221,
+        "chip_type": [
+            "H5000",
+            "H1000"
+        ],
+        "price": 600,
+        "start_time": 1486,
+        "status": "In-progress",
+        "end_time": 5370
+    },
+    {
+        "id": 39893,
+        "chip_type": [
+            "H5000",
+            "G1000",
+            "G1000"
+        ],
+        "price": 1100,
+        "start_time": 3048,
+        "status": "Cancelled",
+        "end_time": null
+    },
+    {
+        "id": 87948,
+        "chip_type": [
+            "G100",
+            "G500"
+        ],
+        "price": 350,
+        "start_time": 1571,
+        "status": "Cancelled",
+        "end_time": null
+    },
+    {
+        "id": 95737,
+        "chip_type": [
+            "G100",
+            "G100"
+        ],
+        "price": 300,
+        "start_time": 4603,
+        "status": "Finished",
+        "end_time": 9123
+    },
+    {
+        "id": 18572,
+        "chip_type": [
+            "G100",
+            "H5000",
+            "H2000"
+        ],
+        "price": 850,
+        "start_time": 1974,
+        "status": "In-progress",
+        "end_time": 8996
+    },
+    {
+        "id": 26285,
+        "chip_type": [
+            "G500",
+            "H5000"
+        ],
+        "price": 600,
+        "start_time": 4654,
+        "status": "Finished",
+        "end_time": 5036
+    },
+    {
+        "id": 33158,
+        "chip_type": [
+            "H2000",
+            "H1000",
             "G500"
         ],
         "price": 700,
-        "start_time": 3799,
-        "status": "Finished",
-        "end_time": 7089
+        "start_time": 1879,
+        "status": "In-progress",
+        "end_time": 6793
     },
     {
-        "id": 40744,
+        "id": 98652,
         "chip_type": [
-            "G1000",
+            "H2000",
+            "H1000"
+        ],
+        "price": 500,
+        "start_time": 4422,
+        "status": "Finished",
+        "end_time": 5196
+    },
+    {
+        "id": 95155,
+        "chip_type": [
+            "H5000",
             "H1000",
-            "G100",
-            "G100",
             "G500"
         ],
+        "price": 800,
+        "start_time": 3092,
+        "status": "Finished",
+        "end_time": 9475
+    },
+    {
+        "id": 69774,
+        "chip_type": [
+            "G500",
+            "H5000",
+            "H5000",
+            "G500"
+        ],
+        "price": 1200,
+        "start_time": 1501,
+        "status": "Cancelled",
+        "end_time": null
+    },
+    {
+        "id": 45452,
+        "chip_type": [
+            "G100",
+            "H1000",
+            "H1000",
+            "H2000"
+        ],
+        "price": 850,
+        "start_time": 2165,
+        "status": "Cancelled",
+        "end_time": null
+    },
+    {
+        "id": 24169,
+        "chip_type": [
+            "H5000",
+            "G500"
+        ],
+        "price": 600,
+        "start_time": 3067,
+        "status": "Cancelled",
+        "end_time": null
+    },
+    {
+        "id": 34353,
+        "chip_type": [
+            "G1000",
+            "H5000"
+        ],
+        "price": 750,
+        "start_time": 2268,
+        "status": "Finished",
+        "end_time": 7708
+    },
+    {
+        "id": 87141,
+        "chip_type": [
+            "H5000",
+            "H1000"
+        ],
+        "price": 600,
+        "start_time": 2064,
+        "status": "In-progress",
+        "end_time": 7146
+    },
+    {
+        "id": 18372,
+        "chip_type": [
+            "G500",
+            "H5000",
+            "G500"
+        ],
+        "price": 800,
+        "start_time": 1260,
+        "status": "Finished",
+        "end_time": 7343
+    },
+    {
+        "id": 89099,
+        "chip_type": [
+            "H1000",
+            "G1000",
+            "H2000"
+        ],
+        "price": 850,
+        "start_time": 3385,
+        "status": "In-progress",
+        "end_time": 8257
+    },
+    {
+        "id": 98106,
+        "chip_type": [
+            "G500",
+            "G100",
+            "H5000",
+            "G1000"
+        ],
+        "price": 1100,
+        "start_time": 4596,
+        "status": "In-progress",
+        "end_time": 9880
+    },
+    {
+        "id": 44340,
+        "chip_type": [
+            "H1000",
+            "H1000"
+        ],
+        "price": 400,
+        "start_time": 4223,
+        "status": "In-progress",
+        "end_time": 5118
+    },
+    {
+        "id": 46159,
+        "chip_type": [
+            "H2000",
+            "G1000",
+            "H1000",
+            "H2000"
+        ],
+        "price": 1150,
+        "start_time": 3381,
+        "status": "In-progress",
+        "end_time": 8267
+    },
+    {
+        "id": 61339,
+        "chip_type": [
+            "G1000",
+            "G1000",
+            "H5000"
+        ],
+        "price": 1100,
+        "start_time": 3705,
+        "status": "In-progress",
+        "end_time": 6534
+    },
+    {
+        "id": 34103,
+        "chip_type": [
+            "G100",
+            "H2000",
+            "G100"
+        ],
+        "price": 600,
+        "start_time": 4364,
+        "status": "Cancelled",
+        "end_time": null
+    },
+    {
+        "id": 24211,
+        "chip_type": [
+            "H1000",
+            "G100",
+            "H2000",
+            "G100"
+        ],
+        "price": 800,
+        "start_time": 2454,
+        "status": "Finished",
+        "end_time": 7083
+    },
+    {
+        "id": 19460,
+        "chip_type": [
+            "H1000",
+            "H1000",
+            "G1000"
+        ],
+        "price": 750,
+        "start_time": 4926,
+        "status": "Finished",
+        "end_time": 9677
+    },
+    {
+        "id": 59646,
+        "chip_type": [
+            "H5000",
+            "H1000"
+        ],
+        "price": 600,
+        "start_time": 1723,
+        "status": "In-progress",
+        "end_time": 5892
+    },
+    {
+        "id": 43383,
+        "chip_type": [
+            "H5000",
+            "G1000",
+            "H2000"
+        ],
         "price": 1050,
+        "start_time": 1368,
+        "status": "Finished",
+        "end_time": 9981
+    },
+    {
+        "id": 49032,
+        "chip_type": [
+            "H5000",
+            "H2000",
+            "H5000",
+            "G500"
+        ],
+        "price": 1300,
+        "start_time": 1510,
+        "status": "Cancelled",
+        "end_time": null
+    },
+    {
+        "id": 15101,
+        "chip_type": [
+            "H2000",
+            "H5000",
+            "G500",
+            "H2000"
+        ],
+        "price": 1200,
+        "start_time": 1273,
+        "status": "Finished",
+        "end_time": 7235
+    },
+    {
+        "id": 65413,
+        "chip_type": [
+            "H1000",
+            "H2000",
+            "H5000"
+        ],
+        "price": 900,
+        "start_time": 3568,
+        "status": "In-progress",
+        "end_time": 9830
+    },
+    {
+        "id": 27825,
+        "chip_type": [
+            "H1000",
+            "G1000"
+        ],
+        "price": 550,
+        "start_time": 4993,
+        "status": "Finished",
+        "end_time": 8880
+    },
+    {
+        "id": 50217,
+        "chip_type": [
+            "G100",
+            "G1000",
+            "H1000",
+            "G1000"
+        ],
+        "price": 1050,
+        "start_time": 3419,
+        "status": "In-progress",
+        "end_time": 8452
+    },
+    {
+        "id": 71190,
+        "chip_type": [
+            "H5000",
+            "H2000",
+            "G500",
+            "G500"
+        ],
+        "price": 1100,
+        "start_time": 1279,
+        "status": "Cancelled",
+        "end_time": null
+    },
+    {
+        "id": 89601,
+        "chip_type": [
+            "G1000",
+            "H5000",
+            "G100",
+            "H1000"
+        ],
+        "price": 1100,
+        "start_time": 3985,
+        "status": "Cancelled",
+        "end_time": null
+    },
+    {
+        "id": 50073,
+        "chip_type": [
+            "G500",
+            "H1000"
+        ],
+        "price": 400,
+        "start_time": 4767,
+        "status": "Finished",
+        "end_time": 7219
+    },
+    {
+        "id": 14383,
+        "chip_type": [
+            "H1000",
+            "G500",
+            "H1000"
+        ],
+        "price": 600,
+        "start_time": 4078,
+        "status": "In-progress",
+        "end_time": 7311
+    },
+    {
+        "id": 26719,
+        "chip_type": [
+            "G100",
+            "G500",
+            "G1000",
+            "H1000"
+        ],
+        "price": 900,
+        "start_time": 3464,
+        "status": "Finished",
+        "end_time": 6587
+    },
+    {
+        "id": 52634,
+        "chip_type": [
+            "H5000",
+            "G100"
+        ],
+        "price": 550,
+        "start_time": 1010,
+        "status": "In-progress",
+        "end_time": 8010
+    },
+    {
+        "id": 28674,
+        "chip_type": [
+            "H2000",
+            "G500",
+            "H2000"
+        ],
+        "price": 800,
+        "start_time": 3043,
+        "status": "Finished",
+        "end_time": 5105
+    },
+    {
+        "id": 21741,
+        "chip_type": [
+            "H5000",
+            "G500"
+        ],
+        "price": 600,
+        "start_time": 2792,
+        "status": "Cancelled",
+        "end_time": null
+    },
+    {
+        "id": 49305,
+        "chip_type": [
+            "G500",
+            "H2000",
+            "G1000"
+        ],
+        "price": 850,
+        "start_time": 1467,
+        "status": "Cancelled",
+        "end_time": null
+    },
+    {
+        "id": 61248,
+        "chip_type": [
+            "G100",
+            "G100"
+        ],
+        "price": 300,
         "start_time": 2783,
         "status": "Finished",
-        "end_time": 5782
+        "end_time": 5589
     },
     {
-        "id": 62748,
+        "id": 46924,
         "chip_type": [
             "H2000",
             "H2000",
-            "G100",
-            "G1000"
+            "H5000",
+            "H1000"
         ],
-        "price": 1100,
-        "start_time": 1715,
+        "price": 1200,
+        "start_time": 2994,
         "status": "Finished",
-        "end_time": 9556
+        "end_time": 6737
     },
     {
-        "id": 85136,
+        "id": 76121,
+        "chip_type": [
+            "G500",
+            "H5000",
+            "H2000"
+        ],
+        "price": 900,
+        "start_time": 2445,
+        "status": "Cancelled",
+        "end_time": null
+    },
+    {
+        "id": 35732,
+        "chip_type": [
+            "G100",
+            "H1000"
+        ],
+        "price": 350,
+        "start_time": 4985,
+        "status": "In-progress",
+        "end_time": 9124
+    },
+    {
+        "id": 92834,
+        "chip_type": [
+            "H2000",
+            "H1000"
+        ],
+        "price": 500,
+        "start_time": 1322,
+        "status": "In-progress",
+        "end_time": 6380
+    },
+    {
+        "id": 93147,
+        "chip_type": [
+            "H1000",
+            "H1000"
+        ],
+        "price": 400,
+        "start_time": 3098,
+        "status": "Cancelled",
+        "end_time": null
+    },
+    {
+        "id": 88714,
+        "chip_type": [
+            "H2000",
+            "G500",
+            "H5000"
+        ],
+        "price": 900,
+        "start_time": 4345,
+        "status": "Finished",
+        "end_time": 8720
+    },
+    {
+        "id": 82787,
+        "chip_type": [
+            "H5000",
+            "H2000",
+            "G100",
+            "H1000"
+        ],
+        "price": 1050,
+        "start_time": 1513,
+        "status": "Cancelled",
+        "end_time": null
+    },
+    {
+        "id": 99816,
+        "chip_type": [
+            "G1000",
+            "H1000",
+            "G500"
+        ],
+        "price": 750,
+        "start_time": 2515,
+        "status": "In-progress",
+        "end_time": 7645
+    },
+    {
+        "id": 25030,
+        "chip_type": [
+            "G1000",
+            "G500",
+            "H5000",
+            "H2000"
+        ],
+        "price": 1250,
+        "start_time": 4103,
+        "status": "In-progress",
+        "end_time": 6952
+    },
+    {
+        "id": 68836,
+        "chip_type": [
+            "H1000",
+            "H1000"
+        ],
+        "price": 400,
+        "start_time": 3543,
+        "status": "Cancelled",
+        "end_time": null
+    },
+    {
+        "id": 64034,
         "chip_type": [
             "G100",
             "G500"
         ],
         "price": 350,
-        "start_time": 2800,
-        "status": "Finished",
-        "end_time": 8495
-    },
-    {
-        "id": 20005,
-        "chip_type": [
-            "G100",
-            "H1000",
-            "H5000",
-            "G1000",
-            "H5000"
-        ],
-        "price": 1500,
-        "start_time": 1152,
-        "status": "Finished",
-        "end_time": 6451
-    },
-    {
-        "id": 53390,
-        "chip_type": [
-            "G500",
-            "H1000",
-            "H1000"
-        ],
-        "price": 600,
-        "start_time": 2893,
-        "status": "Finished",
-        "end_time": 6155
-    },
-    {
-        "id": 95736,
-        "chip_type": [
-            "G1000",
-            "H1000"
-        ],
-        "price": 550,
-        "start_time": 4380,
-        "status": "In process",
-        "end_time": null
-    },
-    {
-        "id": 69649,
-        "chip_type": [
-            "G1000",
-            "G500"
-        ],
-        "price": 550,
-        "start_time": 2386,
-        "status": "Finished",
-        "end_time": 8865
-    },
-    {
-        "id": 75668,
-        "chip_type": [
-            "H2000",
-            "H1000"
-        ],
-        "price": 500,
-        "start_time": 2744,
+        "start_time": 1545,
         "status": "Cancelled",
         "end_time": null
     },
     {
-        "id": 25873,
-        "chip_type": [
-            "G100",
-            "G100",
-            "G500",
-            "H1000"
-        ],
-        "price": 700,
-        "start_time": 2302,
-        "status": "Finished",
-        "end_time": 9463
-    },
-    {
-        "id": 39243,
+        "id": 52568,
         "chip_type": [
             "G1000",
-            "H1000",
-            "H1000"
-        ],
-        "price": 750,
-        "start_time": 2633,
-        "status": "In process",
-        "end_time": null
-    },
-    {
-        "id": 77237,
-        "chip_type": [
-            "G1000",
+            "G100",
             "G100"
-        ],
-        "price": 500,
-        "start_time": 1506,
-        "status": "In process",
-        "end_time": null
-    },
-    {
-        "id": 96929,
-        "chip_type": [
-            "G500",
-            "G1000",
-            "H5000",
-            "H2000"
-        ],
-        "price": 1250,
-        "start_time": 3140,
-        "status": "In process",
-        "end_time": null
-    },
-    {
-        "id": 16540,
-        "chip_type": [
-            "G100",
-            "G1000",
-            "H1000",
-            "G1000",
-            "H1000"
-        ],
-        "price": 1250,
-        "start_time": 3475,
-        "status": "Cancelled",
-        "end_time": null
-    },
-    {
-        "id": 32498,
-        "chip_type": [
-            "G1000",
-            "H2000",
-            "G100"
-        ],
-        "price": 800,
-        "start_time": 3292,
-        "status": "In process",
-        "end_time": null
-    },
-    {
-        "id": 91233,
-        "chip_type": [
-            "H5000",
-            "H2000",
-            "H1000"
-        ],
-        "price": 900,
-        "start_time": 1071,
-        "status": "Finished",
-        "end_time": 6154
-    },
-    {
-        "id": 58867,
-        "chip_type": [
-            "G100",
-            "H1000",
-            "H5000",
-            "G500",
-            "H1000"
-        ],
-        "price": 1150,
-        "start_time": 4352,
-        "status": "Finished",
-        "end_time": 6289
-    },
-    {
-        "id": 33900,
-        "chip_type": [
-            "G100",
-            "H5000"
-        ],
-        "price": 550,
-        "start_time": 3473,
-        "status": "Cancelled",
-        "end_time": null
-    },
-    {
-        "id": 97036,
-        "chip_type": [
-            "G1000",
-            "H2000",
-            "H2000",
-            "G1000"
-        ],
-        "price": 1300,
-        "start_time": 1967,
-        "status": "Cancelled",
-        "end_time": null
-    },
-    {
-        "id": 49159,
-        "chip_type": [
-            "H1000",
-            "G500",
-            "G500"
-        ],
-        "price": 600,
-        "start_time": 3795,
-        "status": "In process",
-        "end_time": null
-    },
-    {
-        "id": 66292,
-        "chip_type": [
-            "G1000",
-            "H2000",
-            "H2000",
-            "G1000"
-        ],
-        "price": 1300,
-        "start_time": 1145,
-        "status": "In process",
-        "end_time": null
-    },
-    {
-        "id": 44001,
-        "chip_type": [
-            "G1000",
-            "G1000",
-            "G500",
-            "H2000"
-        ],
-        "price": 1200,
-        "start_time": 4453,
-        "status": "Finished",
-        "end_time": 7260
-    },
-    {
-        "id": 48370,
-        "chip_type": [
-            "G100",
-            "H5000"
-        ],
-        "price": 550,
-        "start_time": 3791,
-        "status": "Finished",
-        "end_time": 7215
-    },
-    {
-        "id": 31959,
-        "chip_type": [
-            "G1000",
-            "G1000",
-            "H5000",
-            "H1000",
-            "H1000"
-        ],
-        "price": 1500,
-        "start_time": 4541,
-        "status": "Cancelled",
-        "end_time": null
-    },
-    {
-        "id": 30395,
-        "chip_type": [
-            "H1000",
-            "H1000",
-            "H2000"
-        ],
-        "price": 700,
-        "start_time": 2350,
-        "status": "In process",
-        "end_time": null
-    },
-    {
-        "id": 12952,
-        "chip_type": [
-            "H1000",
-            "G500",
-            "G500"
-        ],
-        "price": 600,
-        "start_time": 2840,
-        "status": "In process",
-        "end_time": null
-    },
-    {
-        "id": 87555,
-        "chip_type": [
-            "H5000",
-            "G1000"
-        ],
-        "price": 750,
-        "start_time": 4276,
-        "status": "Cancelled",
-        "end_time": null
-    },
-    {
-        "id": 10923,
-        "chip_type": [
-            "H1000",
-            "G1000",
-            "H2000",
-            "G500"
-        ],
-        "price": 1050,
-        "start_time": 4616,
-        "status": "Cancelled",
-        "end_time": null
-    },
-    {
-        "id": 33073,
-        "chip_type": [
-            "G100",
-            "H2000",
-            "G100"
-        ],
-        "price": 600,
-        "start_time": 2811,
-        "status": "Cancelled",
-        "end_time": null
-    },
-    {
-        "id": 49692,
-        "chip_type": [
-            "H2000",
-            "G1000",
-            "G500",
-            "G100"
-        ],
-        "price": 1000,
-        "start_time": 4994,
-        "status": "In process",
-        "end_time": null
-    },
-    {
-        "id": 96963,
-        "chip_type": [
-            "H2000",
-            "H5000",
-            "H1000",
-            "H2000"
-        ],
-        "price": 1200,
-        "start_time": 1963,
-        "status": "Finished",
-        "end_time": 8689
-    },
-    {
-        "id": 34153,
-        "chip_type": [
-            "G1000",
-            "G100",
-            "H1000",
-            "H5000",
-            "H2000"
-        ],
-        "price": 1400,
-        "start_time": 2519,
-        "status": "In process",
-        "end_time": null
-    },
-    {
-        "id": 41872,
-        "chip_type": [
-            "G1000",
-            "G500",
-            "G500"
-        ],
-        "price": 750,
-        "start_time": 3390,
-        "status": "In process",
-        "end_time": null
-    },
-    {
-        "id": 32872,
-        "chip_type": [
-            "H2000",
-            "G100",
-            "H2000",
-            "H1000"
-        ],
-        "price": 950,
-        "start_time": 4264,
-        "status": "Cancelled",
-        "end_time": null
-    },
-    {
-        "id": 19662,
-        "chip_type": [
-            "G1000",
-            "G500",
-            "G1000",
-            "G1000",
-            "G500"
-        ],
-        "price": 1450,
-        "start_time": 2187,
-        "status": "In process",
-        "end_time": null
-    },
-    {
-        "id": 35881,
-        "chip_type": [
-            "H1000",
-            "G100",
-            "H2000",
-            "G1000"
-        ],
-        "price": 1000,
-        "start_time": 2300,
-        "status": "Finished",
-        "end_time": 6286
-    },
-    {
-        "id": 70365,
-        "chip_type": [
-            "H5000",
-            "H2000",
-            "H1000"
-        ],
-        "price": 900,
-        "start_time": 1723,
-        "status": "Cancelled",
-        "end_time": null
-    },
-    {
-        "id": 89968,
-        "chip_type": [
-            "G100",
-            "H2000",
-            "H2000",
-            "H2000",
-            "G100"
-        ],
-        "price": 1200,
-        "start_time": 2512,
-        "status": "Cancelled",
-        "end_time": null
-    },
-    {
-        "id": 68504,
-        "chip_type": [
-            "G1000",
-            "H2000",
-            "G1000"
-        ],
-        "price": 1000,
-        "start_time": 2647,
-        "status": "In process",
-        "end_time": null
-    },
-    {
-        "id": 15823,
-        "chip_type": [
-            "G1000",
-            "H2000",
-            "G1000",
-            "H2000"
-        ],
-        "price": 1300,
-        "start_time": 4027,
-        "status": "Finished",
-        "end_time": 5408
-    },
-    {
-        "id": 98484,
-        "chip_type": [
-            "G1000",
-            "G100",
-            "G1000",
-            "G100",
-            "H1000"
-        ],
-        "price": 1200,
-        "start_time": 1843,
-        "status": "Cancelled",
-        "end_time": null
-    },
-    {
-        "id": 79519,
-        "chip_type": [
-            "G1000",
-            "H5000",
-            "H1000",
-            "H2000",
-            "H2000"
-        ],
-        "price": 1550,
-        "start_time": 3581,
-        "status": "Finished",
-        "end_time": 6940
-    },
-    {
-        "id": 29878,
-        "chip_type": [
-            "G1000",
-            "G500",
-            "G1000",
-            "G100"
-        ],
-        "price": 1050,
-        "start_time": 2904,
-        "status": "In process",
-        "end_time": null
-    },
-    {
-        "id": 46797,
-        "chip_type": [
-            "G100",
-            "H2000",
-            "G100",
-            "G500"
-        ],
-        "price": 800,
-        "start_time": 3333,
-        "status": "Finished",
-        "end_time": 6054
-    },
-    {
-        "id": 26305,
-        "chip_type": [
-            "G1000",
-            "H2000"
         ],
         "price": 650,
-        "start_time": 4642,
-        "status": "Cancelled",
-        "end_time": null
+        "start_time": 3439,
+        "status": "Finished",
+        "end_time": 7048
     },
     {
-        "id": 26908,
-        "chip_type": [
-            "H2000",
-            "H2000"
-        ],
-        "price": 600,
-        "start_time": 1027,
-        "status": "In process",
-        "end_time": null
-    },
-    {
-        "id": 16027,
+        "id": 58308,
         "chip_type": [
             "H1000",
-            "H2000",
-            "H1000",
-            "H2000"
+            "G500"
         ],
-        "price": 1000,
-        "start_time": 4989,
-        "status": "Cancelled",
-        "end_time": null
+        "price": 400,
+        "start_time": 4513,
+        "status": "In-progress",
+        "end_time": 9180
     },
     {
-        "id": 42894,
+        "id": 58464,
         "chip_type": [
             "G100",
+            "H2000",
+            "H1000",
             "H1000"
         ],
-        "price": 350,
-        "start_time": 3798,
+        "price": 850,
+        "start_time": 4572,
         "status": "Cancelled",
         "end_time": null
     },
     {
-        "id": 87667,
+        "id": 71199,
         "chip_type": [
             "H2000",
-            "H5000",
-            "H1000",
-            "H2000"
+            "G500",
+            "G100"
         ],
-        "price": 1200,
-        "start_time": 1019,
+        "price": 650,
+        "start_time": 4911,
         "status": "Finished",
-        "end_time": 7937
+        "end_time": 5867
     },
     {
-        "id": 59130,
+        "id": 11739,
         "chip_type": [
-            "G1000",
-            "H1000",
-            "H2000",
             "G100",
             "G1000"
         ],
-        "price": 1350,
-        "start_time": 4589,
-        "status": "In process",
+        "price": 500,
+        "start_time": 1537,
+        "status": "Cancelled",
+        "end_time": null
+    },
+    {
+        "id": 38240,
+        "chip_type": [
+            "H2000",
+            "H2000",
+            "H1000"
+        ],
+        "price": 800,
+        "start_time": 3440,
+        "status": "In-progress",
+        "end_time": 8101
+    },
+    {
+        "id": 44979,
+        "chip_type": [
+            "H5000",
+            "H2000"
+        ],
+        "price": 700,
+        "start_time": 1009,
+        "status": "In-progress",
+        "end_time": 9285
+    },
+    {
+        "id": 62490,
+        "chip_type": [
+            "H2000",
+            "H5000",
+            "H2000"
+        ],
+        "price": 1000,
+        "start_time": 4242,
+        "status": "Cancelled",
+        "end_time": null
+    },
+    {
+        "id": 79957,
+        "chip_type": [
+            "H1000",
+            "G100",
+            "G100"
+        ],
+        "price": 500,
+        "start_time": 3904,
+        "status": "Finished",
+        "end_time": 5007
+    },
+    {
+        "id": 29335,
+        "chip_type": [
+            "G100",
+            "H5000",
+            "G1000",
+            "G500"
+        ],
+        "price": 1100,
+        "start_time": 2474,
+        "status": "In-progress",
+        "end_time": 8170
+    },
+    {
+        "id": 17686,
+        "chip_type": [
+            "G100",
+            "G100",
+            "G500"
+        ],
+        "price": 500,
+        "start_time": 3265,
+        "status": "Finished",
+        "end_time": 8674
+    },
+    {
+        "id": 93266,
+        "chip_type": [
+            "G500",
+            "H5000"
+        ],
+        "price": 600,
+        "start_time": 3302,
+        "status": "Cancelled",
+        "end_time": null
+    },
+    {
+        "id": 94680,
+        "chip_type": [
+            "H1000",
+            "H1000",
+            "H1000",
+            "H5000"
+        ],
+        "price": 1000,
+        "start_time": 2709,
+        "status": "In-progress",
+        "end_time": 6403
+    },
+    {
+        "id": 10608,
+        "chip_type": [
+            "H2000",
+            "G500",
+            "H1000",
+            "G1000"
+        ],
+        "price": 1050,
+        "start_time": 3922,
+        "status": "In-progress",
+        "end_time": 5559
+    },
+    {
+        "id": 15221,
+        "chip_type": [
+            "H1000",
+            "G100"
+        ],
+        "price": 350,
+        "start_time": 2942,
+        "status": "Finished",
+        "end_time": 8435
+    },
+    {
+        "id": 66852,
+        "chip_type": [
+            "G100",
+            "H2000",
+            "G100"
+        ],
+        "price": 600,
+        "start_time": 4530,
+        "status": "In-progress",
+        "end_time": 5522
+    },
+    {
+        "id": 51469,
+        "chip_type": [
+            "H1000",
+            "H5000",
+            "G100"
+        ],
+        "price": 750,
+        "start_time": 1224,
+        "status": "In-progress",
+        "end_time": 9858
+    },
+    {
+        "id": 32336,
+        "chip_type": [
+            "G100",
+            "G1000",
+            "G100",
+            "G500"
+        ],
+        "price": 850,
+        "start_time": 2464,
+        "status": "Cancelled",
         "end_time": null
     }
 ]

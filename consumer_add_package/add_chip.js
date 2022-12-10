@@ -16,7 +16,7 @@ $(document).ready(function () {
                 value.price + '</td>';
 
             chips += '<td>' +
-                "<button onclick=\"add(" + value.id + ")\" id=\"" + value.id + "\">Add</button>" + "</td>";
+                "<button onclick=\"add(" + value.id + ")\" id=\"" + value.id + "\">+</button>" + "</td>";
 
             chips += '</tr>';
         });
@@ -88,8 +88,6 @@ function updateCart() {
     var total = 0;
     $.each(cart, function (key, value) {
 
-        var subtotal = 1;
-
         item += '<tr>';
 
         item += '<td>' + 
@@ -107,7 +105,7 @@ function updateCart() {
     });
 
     $('#shopping_cart').append(item);
-    document.getElementById("total").innerHTML = "<strong>$" + total + "</strong>";
+    document.getElementById("total").innerHTML = "Total <br> <strong>$" + total + "</strong>";
 }
 
 function delitem(i) {

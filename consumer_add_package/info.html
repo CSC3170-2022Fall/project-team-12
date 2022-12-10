@@ -1,53 +1,50 @@
 <head>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="infostyle.css">
     <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
 </head>
 <body>
-    <a href="temp_main.html">HOME</a>
-    <div id="all">
-        <h2>Check Package Processes</h2>
-        <div>
-            <input type="text" placeholder="Search by ID" onkeyup="search()" id="input">
-            <input type="text" placeholder="Search by Chip type" onkeyup="search_p()" id="inputp">
+    <center>
+    <div class="card">
+        <a href="temp_main.html">HOME</a>
+        <div id="all">
+            <h2 id="title">Check Package Processes</h2>
+            <div>
+                <input type="text" placeholder="Search by ID" onkeyup="search()" id="input">
+                <input type="text" placeholder="Search by Chip" onkeyup="search_p()" id="inputp">
+            </div>
+            <table class="styled-table">
+                <thead>
+                    <tr>
+                        <th style="width: 20%;">Package ID</th>
+                        <th>Chips</th>
+                        <th style="width: 20%;">Status</th>
+                        <th>Detail</th>
+                    </tr>
+                </thead>
+                <tbody id="table"></tbody>
+            </table>
         </div>
-        <table>
-            <thead>
-                <tr>
-                    <th>Package ID</th>
-                    <th>Chips</th>
-                    <th>Price</th>
-                    <th>Start Time</th>
-                    <th>End Time</th>
-                    <th>Status</th>
-                    <th>Detail</th>
-                </tr>
-            </thead>
-            <tbody id="table">
-            </tbody>
-        </table>
     </div>
-
+    </center>
+    <center>
     <div id="detail" style="display:none">
-
-        <div id="details">
-        <table>
-            <thead>
-                <tr>
-                    <th>Package ID</th>
-                    <th>Chips</th>
-                    <th>Price</th>
-                    <th>Start Time</th>
-                    <th>End Time</th>
-                    <th>Status</th>
-                </tr>
-            </thead>
-            <tbody id="detailT">
-            </tbody>
-        </table>
-    </div>
-    <div>
         <button onclick="nodetail()">Close</button>
+        <div id="details">
+            <table class="styled-table">
+                <thead>
+                    <tr>
+                        <th>Package ID</th>
+                        <th>Chips</th>
+                        <th>Price</th>
+                        <th>Start Time</th>
+                        <th>End Time</th>
+                        <th>Status</th>
+                    </tr>
+                </thead>
+                <tbody id="detailT"></tbody>
+            </table>
+        </div>
     </div>
-    </div>
+    </center>
     <script src="info.js"></script>
 </body>
