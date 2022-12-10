@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head> 
+    <link rel="stylesheet" href="homepage.css">
+<meta charset="utf-8"> 
+<title>delete account</title> 
+<script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+</head>
+<br><br>
+<body>
+<center>
+<form action="">
+Your Account: <input type="text" id="account" style="height : 25px; width : 100px">
+</form>
+
+
+<script>
+var input = document.getElementById("input")
+var _data;
+
+$(document).ready(function () {
+    $.getJSON("users.json", 
+        function (data) {
+            _data = data;
+        var user = '';
+
+        $.each(_data, function (key, value) {
+            user += '<tr>';
+
+            user += '<td>' + 
+                value.user_name + '</td>';
+
+            user += '<td>$' + 
+                value.password + '</td>';
+
+            user += '</tr>';
+        });
+
+        $('#table').append(user);
+    });
+});
+
+function delitem(i) {
+    _data.splice(i, 1)
+    console.log(i)
+    document.location.href='https://www.baidu.com'
+    
+}
+
+</script>
+<br>
+<br>
+<button  onclick="delitem(account.value);">Delete</button>
+</center>
+</body>
+</html>
+
