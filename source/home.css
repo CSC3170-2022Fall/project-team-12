@@ -1,0 +1,123 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+body {
+	justify-content: center;
+	align-items: center;
+	background: rgb(241, 255, 241);
+}
+
+.styled-table {
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 1.5em;
+    font: 1em century gothic;
+    min-width: 500px;
+    width: 80%;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+.styled-table thead tr {
+    background-color: #009879;
+    color: #ffffff;
+    text-align: left;
+}
+
+.styled-table thead tr th {
+    padding: 2%;
+}
+
+.styled-table tbody tr td {
+    padding: 2%;
+}
+
+.styled-table tbody tr {
+    border-bottom: 1px solid #dddddd;
+}
+
+.styled-table tbody tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+}
+
+.styled-table tbody tr:last-of-type {
+    border-bottom: 2px solid #009879;
+}
+
+li {
+    top: 0;
+    display: inline;
+    font: 1em century gothic, arial;
+    font-weight: bold;
+  }
+
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 25px;
+  }
+
+  li a:hover {
+    background-color: rgb(110, 196, 110);
+  }
+
+  .active {
+    background-color: #04AA6D;
+  }
+
+form{
+  font-size: 20px;
+}
+
+#list_here {
+  height: 59px;
+  background: rgb(153, 214, 153);
+}
+
+
+h2 {
+    font: 2em century gothic, arial;
+    font-weight: bold;
+  }
+
+h1 {
+    font: 2em century gothic, arial;
+    font-weight: bold;
+}
+
+#sub {
+    margin-bottom: 50px;
+    text-align: center;
+    background-color: rgb(241, 255, 241);
+    border-collapse: collapse;
+}
+
+#sub tr td{
+    font: 20px century gothic, arial;
+    padding: 20px;
+    width: 200px;
+}
+
+.sepe {
+    border-top: none;
+    background-color: rgb(241, 255, 241);
+}
+
+.bord {
+    border-left: #04AA6D 3px solid;
+    border-right: #04AA6D 3px solid;
+}
+
+
+#content {
+    font: 1.2em century gothic, arial;
+    width: 500px;
+}
