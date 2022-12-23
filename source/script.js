@@ -59,11 +59,11 @@ confirmPassword.onkeyup = function(){
     console.log(confirmPassword.value)
     if(confirmPassword.value != password.value){
         console.log("different")
-        const incorrect =document.getElementById("incorrect")
+        const incorrect = document.getElementById("incorrect")
         incorrect.style.display='block';
     }
     else{
-        const incorrect =document.getElementById("incorrect")
+        const incorrect = document.getElementById("incorrect")
         incorrect.style.display='none';
         myUserName.push(name.value)
         myUserEmail.push(email.value)
