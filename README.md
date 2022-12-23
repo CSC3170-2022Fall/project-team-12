@@ -10,7 +10,8 @@ This is our implementation for the course project of CSC3170, 2022 Fall, CUHK(SZ
 - [x] **Application with Database System(s)**
 - [ ] **Implementation of a Database System**
 
-## Presentation Video Link: https://www.bilibili.com/video/BV1iM411173W/?vd_source=3fe6ce71d4bf62c78c2fed488c7d138c
+## Presentation Video Link
+https://www.bilibili.com/video/BV1iM411173W/?vd_source=3fe6ce71d4bf62c78c2fed488c7d138c
 
 ## Team Members
 
