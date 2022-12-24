@@ -57,6 +57,11 @@ Additionally, after login, consumer homepage and producer homepage will be shown
 
 ## Functionality Implementation
 
+Consumer homepage is similar to producer homepage in functionalities. 3 out of 5 buttons are the same: “Home”, “Log-out”, “Delete account”. “Home” is a button linking to either consumer homepage or producer homepage. “Log-out” is a button linking to the login/registration page. At the same time, it will also change the user status into offline. “Delete account” is a button linking to a confirmation page. After the user confirms the account that he wants to delete, it will delete the relative information (including package) in the database and go to the login/registration page. 
+
+For consumer homepage, “Check package” button allows the user to check and search for package information. “Make purchase” button allows the user to select from the different kinds of chips to make a purchase. 
+
+For producer homepage, “Check plants” button allows user to manage their plants (including adding and deleting). “Check package” button is basically the same as the one on the consumer homepage, but it also allows the producer to update the package information (in-progress or finished).  
 
 ## Historical Progress
 
