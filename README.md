@@ -3,21 +3,16 @@
 
 ## Project Overall Description
 
-This is our implementation for the course project of CSC3170, 2022 Fall, CUHK(SZ). For details of the project, you can refer to [project-description.md](project-description.md). In this project, we will utilize what we learned in the lectures and tutorials in the course, and implement either one of the following major jobs:
-
-<!-- Please fill in "x" to replace the blank space between "[]" to tick the todo item; it's ticked on the first one by default. -->
-
-- [x] **Application with Database System(s)**
-- [ ] **Implementation of a Database System**
+This is our implementation for the course project of CSC3170, 2022 Fall, CUHK(SZ). For details of the project, you can refer to [project-description.md](project-description.md). In this project, we utilized what we learned in the lectures and tutorials in the course.
 
 ## Presentation Video Link
-https://www.bilibili.com/video/BV1iM411173W/?vd_source=3fe6ce71d4bf62c78c2fed488c7d138c
+
+This is the link for presentation video: https://www.bilibili.com/video/BV1iM411173W/?vd_source=3fe6ce71d4bf62c78c2fed488c7d138c <br>
+For the slides of the presentation, you can refer to [presentation-slides.pdf](presentation-slides.pdf).</br>
 
 ## Team Members
 
 Our team consists of the following members, listed in the table below (the team leader is shown in the first row, and is marked with 🚩 behind his/her name):
-
-<!-- change the info below to be the real case -->
 
 | Student ID | Student Name | GitHub Account (in Email) | User Name   |
 | ---------- | ------------ | ------------------------- | ----------- |
@@ -30,8 +25,6 @@ Our team consists of the following members, listed in the table below (the team 
 
 ## Project Specification
 
-<!-- You should remove the terms/sentence that is not necessary considering your option/branch/difficulty choice -->
-
 After thorough discussion, our team made the choice and the specification information is listed below:
 
 - Our option choice is: **Option 1**
@@ -39,8 +32,6 @@ After thorough discussion, our team made the choice and the specification inform
 - The difficulty level is: **Normal**
 
 ## Project Abstract
-
-<!-- TODO -->
 
 This project is under option 1, branch 1, normal difficulty. This project aims to implement a platform designed for chip transactions between consumers and producers and handle chip production procedures. Specifically, this project aims to accomplish the following goals for the platform: 
 
@@ -57,4 +48,28 @@ This project is under option 1, branch 1, normal difficulty. This project aims t
 - General information look up
 
 - General information comparison with visualization
+
+## Historical Progress
+
+  | Milestone |      Progress                                                          |
+  | ------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+  | Week 3   | <ul><li>Determined the main functions & basic idea of project</li><li>Wrote the Project Abstract</li><li>Drew the ER diagram</li></ul>  |                                                                                              |
+  | Week 4   | <ul><li>Separated the total work into small parts</li> <li> Allocated to each member of the group</li></ul> |
+  | Week 5   | <ul><li> Integrated all the parts of the codes</li> <li> Unified the style </li> <li> Check each other for loopholes</li> </ul>                                |
+  | Week 6   | <ul><li> Did the final adjustment </li><li> Wrote the Report </li><li> Recorded the presentation video </li></ul>                                                                |
+
+## Repository Structure
+
+In our group's Github repo profile, the [source](source) folder stores the code of our main program. Inside the folder, all the html, javascript and json files are stored in main directory. And css files are stored in src subdirectory. Users can open the home page of the website through [home_page.html](home_page.html). 
+Outside the folder, there are [presentation-slides.pdf](presentation-slides.pdf) and a [project-description.md](project-description.md).
+
+## Actual Contribution
+| Student ID | Student Name | Contribution | Personal Sentiment   |
+| ---------- | ------------ | ------------------------------------------- | --------------------------------- |
+| 120040076  | 许可          | Responsible for writing two functions：Producer add plant information page and update package information.         | |
+| 120010030  | 石行言        | andrewshi2002@163.com     | |
+| 120010019  | 张梓杰        | itif_hq@126.com        |   |
+| 120040064  | 陈祥志        | 1060239950@qq.com            |   |
+| 119020055  | 魏弋博        | 1912664053@qq.com         |   |
+| 120090600  | 叶超          | 1016558312@qq.com            |  |
 
