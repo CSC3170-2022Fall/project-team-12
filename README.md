@@ -66,7 +66,7 @@ Outside the folder, there are [presentation-slides.pdf](presentation-slides.pdf)
 ## Actual Contribution
 | Student ID | Student Name | Contribution | Personal Sentiment   |
 | ---------- | ------------ | ------------------------------------------- | --------------------------------- |
-| 120040076  | 许可          | Responsible for writing two functions：Producer add plant information page and update package information.         | |
+| 120040076  | 许可          | Responsible for writing two functions：Producer add plant information page and update package information.         | As a leader of the team, glad to see these well cooperated teammates. Learnt to use the knowldge from classes and how to build websites from this project.|
 | 120010030  | 石行言        | andrewshi2002@163.com     | |
 | 120010019  | 张梓杰        | Responsible for writing consumer login pages        |  It was great to work with the team members towards the same goal. Thanks to them, I learned a lot from it |
 | 120040064  | 陈祥志        | 1060239950@qq.com            |   |
