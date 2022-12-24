@@ -7,8 +7,23 @@
 
     <!-- ===== CSS ===== -->
     <link rel="stylesheet" href="src/indexstyle.css">
-         
-    <!--<title>Login & Registration Form</title>-->
+    <script type="text/javascript">
+        window.onload = function () {
+           var allInput = this.document.getElementsByTagName('input');
+           for (var i = 0; i < allInput.length; i++) {
+               allInput[i].onblur = function () {
+                   if (this.value.length == 0) {
+                       this.style.borderColor = 'pink';
+                       alert("The input should not be empty")
+                   }
+                   else {
+                       this.style.borderColor = '';
+                   } 
+                   
+               };
+           }
+       };
+   </script>
 </head>
 <body>
     

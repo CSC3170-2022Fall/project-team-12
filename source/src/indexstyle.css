@@ -168,4 +168,11 @@ body{
     margin-top: 5px;
 }
 
+#incorrect{
+    font: 1em century gothic, arial;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 5px;
+}
+
 

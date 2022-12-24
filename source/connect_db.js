@@ -1,13 +1,15 @@
-var mysql = require('mysql');
+export default function foo(){
+    var mysql = require('mysql');
 
-var con = mysql.createConnection({
-  host: "localhost",
-  user: "root",
-  password: "root",
-  database:"team_12"
-});
+    var con = mysql.createConnection({
+    host: "localhost",
+    user: "root",
+    password: "root",
+    database:"team_12"
+    });
 
-con.connect();
+    con.connect();
+}
 
 function get_info(){
     con.query('SELECT * from Producer', (error, results)=>{
