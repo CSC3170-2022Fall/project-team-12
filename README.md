@@ -53,7 +53,7 @@ This project is under option 1, branch 1, normal difficulty. This project aims t
 
 First, we have a homepage with some contents of our company and two buttons that link to consumer and producer login page. At the consumer login page, users will be asked to enter email and passward in order to get in. There's also a signup page, in which users will need to enter some infomation to set up an account. And the producer login page will be about the same contents stored in a different database.
 
-Additionally, after login, consumer homepage and producer homepage will be shown according to the user's status. In this page, users can check their packages, make some prechase, delete their account, and logout to the homepage. As for the producer homepage, "make purchase" button is replaced by "check plants" button. Specific data will be visualized according to specific functions.
+Additionally, after login, consumer homepage and producer homepage will be shown according to the user's status. In this page, users can check their packages, make some purchase, delete their accounts, and logout to the homepage. As for the producer homepage, "make purchase" button is replaced by "check plants" button. Specific data will be visualized according to specific functions.
 
 ## Functionality Implementation
 
