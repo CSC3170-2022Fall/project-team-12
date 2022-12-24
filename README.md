@@ -71,5 +71,5 @@ Outside the folder, there are [presentation-slides.pdf](presentation-slides.pdf)
 | 120010019  | 张梓杰        | itif_hq@126.com        |   |
 | 120040064  | 陈祥志        | 1060239950@qq.com            |   |
 | 119020055  | 魏弋博        | Responsible for writing producer homepage and css style.        |   |
-| 120090600  | 叶超          | 1016558312@qq.com            |  |
+| 120090600  | 叶超          | Responsible for writing producer login page          |  |
 
