@@ -49,6 +49,11 @@ This project is under option 1, branch 1, normal difficulty. This project aims t
 
 - General information comparison with visualization
 
+## Program Design
+
+## Functionality Implementation
+
+
 ## Historical Progress
 
   | Milestone |      Progress                                                          |
