@@ -70,6 +70,6 @@ Outside the folder, there are [presentation-slides.pdf](presentation-slides.pdf)
 | 120010030  | 石行言        | andrewshi2002@163.com     | |
 | 120010019  | 张梓杰        | itif_hq@126.com        |   |
 | 120040064  | 陈祥志        | 1060239950@qq.com            |   |
-| 119020055  | 魏弋博        | Responsible for writing producer homepage and css style.        |   |
-| 120090600  | 叶超          | Responsible for writing producer login page          |  |
+| 119020055  | 魏弋博        | Responsible for writing producer homepage and css style.        | Happy to cooperate with teammates! Learnt some new stuff like how to write webpages. Teammates are really helpful. |
+| 120090600  | 叶超          | 1016558312@qq.com            |  |
 
