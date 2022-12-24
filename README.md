@@ -68,7 +68,7 @@ Outside the folder, there are [presentation-slides.pdf](presentation-slides.pdf)
 | ---------- | ------------ | ------------------------------------------- | --------------------------------- |
 | 120040076  | 许可          | Responsible for writing two functions：Producer add plant information page and update package information.         | |
 | 120010030  | 石行言        | andrewshi2002@163.com     | |
-| 120010019  | 张梓杰        | Responsible for writing consumer login pages        |   |
+| 120010019  | 张梓杰        | Responsible for writing consumer login pages        |  It was great to work with the team members towards the same goal. Thanks to them, I learned a lot from it |
 | 120040064  | 陈祥志        | 1060239950@qq.com            |   |
 | 119020055  | 魏弋博        | Responsible for writing producer homepage and css style.        | Happy to cooperate with teammates! Learnt some new stuff like how to write webpages. Teammates are really helpful. |
 | 120090600  | 叶超          | Responsible for writing produer login pages            |I have learned a lot of knowledge about making web pages. I am very grateful to my team members for their help  |
