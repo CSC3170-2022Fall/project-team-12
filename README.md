@@ -51,6 +51,10 @@ This project is under option 1, branch 1, normal difficulty. This project aims t
 
 ## Program Design
 
+First, we have a homepage with some contents of our company and two buttons that link to consumer and producer login page. At the consumer login page, users will be asked to enter email and passward in order to get in. There's also a signup page, in which users will need to enter some infomation to set up an account. And the producer login page will be about the same contents stored in a different database.
+
+Additionally, after login, consumer homepage and producer homepage will be shown according to the user's status. In this page, users can check their packages, make some prechase, delete their account, and logout to the homepage. As for the producer homepage, "make purchase" button is replaced by "check plants" button. Specific data will be visualized according to specific functions.
+
 ## Functionality Implementation
 
 
@@ -74,7 +78,7 @@ Outside the folder, there are [presentation-slides.pdf](presentation-slides.pdf)
 | 120040076  | 许可          | Responsible for writing two functions：Producer add plant information page and update package information.         | As a leader of the team, glad to see these well cooperated teammates. Learnt to use the knowldge from classes and how to build websites from this project.|
 | 120010030  | 石行言        | andrewshi2002@163.com     | |
 | 120010019  | 张梓杰        | Responsible for writing consumer login pages        |  It was great to work with the team members towards the same goal. Thanks to them, I learned a lot from it |
-| 120040064  | 陈祥志        | 1060239950@qq.com            |   |
+| 120040064  | 陈祥志        | Responsible for writing consumer homepage and corresponding functions.            | I would like to express my thanks for my team members, who gave me a great help. It is not smooth that we have finished this project, but we managed to finish the project and harvested a sense of pride in our success. |
 | 119020055  | 魏弋博        | Responsible for writing producer homepage and css style.        | Happy to cooperate with teammates! Learnt some new stuff like how to write webpages. Teammates are really helpful. |
 | 120090600  | 叶超          | Responsible for writing produer login pages            |I have learned a lot of knowledge about making web pages. I am very grateful to my team members for their help  |
 
