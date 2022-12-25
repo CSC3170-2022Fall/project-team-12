@@ -1,0 +1,43 @@
+[
+    {
+        "id": 0,
+        "machine_type": [
+            "mill",
+            "CNC",
+            "lithography"
+        ],
+        "num_machines": 2,
+        "name": "Southern Digital"
+    },
+    {
+        "id": 1,
+        "machine_type": [
+            "saw",
+            "lithography",
+            "mill",
+            "mill"
+        ],
+        "num_machines": 3,
+        "name": "Northern Digital"
+    },
+    {
+        "id": 2,
+        "machine_type": [
+            "CNC",
+            "saw",
+            "drill",
+            "saw"
+        ],
+        "num_machines": 3,
+        "name": "Western Processing"
+    },
+    {
+        "id": 3,
+        "machine_type": [
+            "drill"
+        ],
+        "num_machines": 0,
+        "name": "Southern Industries"
+    }
+    
+]

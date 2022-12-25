@@ -1,0 +1,127 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+body {
+	justify-content: center;
+	align-items: center;
+	background: rgb(241, 255, 241);
+}
+
+h1{
+	color: black;
+	margin-bottom: 30px;
+    font-size: 35px;
+
+}
+
+
+li {
+    top: 0;
+    display: inline;
+    font: 1em century gothic, arial;
+    font-weight: bold;
+  }
+
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 25px;
+  }
+
+  li a:hover {
+    background-color: rgb(110, 196, 110);
+  }
+
+  .active {
+    background-color: #04AA6D;
+  }
+
+form{
+  font-size: 20px;
+}
+
+#list_here {
+  height: 59px;
+  background: rgb(153, 214, 153);
+}
+
+h1 {
+  font: 2em century gothic, arial;
+}
+
+h2 {
+  font: 2em century gothic, arial;
+  font-weight: bold;
+}
+
+#userinfo {
+  padding-top: 8px;
+  padding-right: 20px;
+  text-align: right;
+  font: 2em century gothic, arial;
+}
+
+#box {
+  width: 40%;
+  padding: 5%;
+  background: rgb(153, 214, 153);
+  box-shadow: 0 1px 15px 1px rgba(52,40,104,.08); 
+  border-radius: 10px;
+}
+
+button {
+  line-height: 1;
+  display: inline-block;
+  border-radius: 5px;
+  color: black;
+  padding: 5px;
+  font: 1em century gothic, arial;
+  border-width: 1px;
+  width: 35%;
+  height: 40%;
+  margin: 10px;
+}
+
+a:link { text-decoration: none; }
+a:visited { text-decoration: none; }
+a:hover { text-decoration: none; }
+a:active { text-decoration: none; }
+
+#pageinfo {
+  width: 80%;
+  align-content: center;
+  text-align: center
+}
+
+#pageinfo tr td {
+  align-content: center;
+  font: 25px century gothic, arial;
+  font-weight: bold;
+}
+
+
+#pageinfo tr td span {
+  align-content: center;
+  font: 17px century gothic, arial;
+}
+
+#growth {
+  margin-bottom: 50px;
+  width: 70%;
+  font: 20px century gothic, arial;
+}
+
+#growth strong{
+  font: 30px century gothic, arial;
+  font-weight: bold;
+}
+

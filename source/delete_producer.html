@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head> 
+    <link rel="stylesheet" href="src/homepage.css">
+<meta charset="utf-8"> 
+<title>delete account</title> 
+<script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+</head>
+<br><br>
+<body>
+<center>
+
+<script>
+var input = document.getElementById("input")
+var _data;
+
+$(document).ready(function () {
+    $.getJSON("users.json", 
+        function (data) {
+            _data = data;
+        var user = '';
+
+        $.each(_data, function (key, value) {
+            user += '<tr>';
+
+            user += '<td>' + 
+                value.user_name + '</td>';
+
+            user += '<td>$' + 
+                value.password + '</td>';
+
+            user += '</tr>';
+        });
+
+        $('#table').append(user);
+    });
+});
+
+function delitem(i) {
+    _data.splice(i, 1)
+    console.log(i)
+    document.location.href='home_page.html'
+}
+</script>
+
+<div id="box">
+    <h2>You about to delete your account, are you sure?</h2>
+    <br>
+    <form action="" style="font: 1em century gothic, arial; font-weight: bold;">
+        Your Account: <input type="text" id="account" style="height : 25px; width : 100px">
+    </form>
+    <br>
+    <button><a href="producer_homepage.html">Return</a></button>
+    <button onclick="delitem(account.value);">Delete</button>
+</div>
+</center>
+</body>
+</html>
+
